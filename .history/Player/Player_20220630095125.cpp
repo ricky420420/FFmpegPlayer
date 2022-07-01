@@ -1,4 +1,3 @@
-+start  https://www.youtube.com/watch?v=M9tfueBGRTs  end
 
 // Player.cpp : Defines the class behaviors for the application.
 //

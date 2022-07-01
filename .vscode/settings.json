@@ -1,7 +1,17 @@
 {
     "python.testing.pytestArgs": [
-        "QtPlayer"
+        "ffmpeg-3.3.3-experimental-patch"
     ],
     "python.testing.unittestEnabled": false,
-    "python.testing.pytestEnabled": true
+    "python.testing.pytestEnabled": true,
+    "compile-hero.disable-compile-files-on-did-save-code": false,
+    "totvsLanguageServer.welcomePage": false,
+    "todo-tree.tree.scanMode": "current file",
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        "./video",
+        "-p",
+        "*test.py"
+    ]
 }
